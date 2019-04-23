@@ -1,14 +1,2 @@
 @import url("layout.css");
 @import url("modular.css");
-
-body * {
-  background-color: rgb(94, 15, 15);
-  border: 1px solid black;
-}
-
-#container {
-  background-color: white;
-  max-width: 100%;
-  min-width: 820px;
-  overflow: auto;
-}
