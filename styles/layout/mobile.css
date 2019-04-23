@@ -2,60 +2,68 @@ body * {
   position: relative;
   background-color: grey;
   border: 1px solid black;
-}
-
-header {
+ }
+ 
+ header {
   width: 100%;
   height: 115px;
-}
-
-article {
+ }
+ 
+ article {
   width: 100%;
-}
-
-.nav {
+ }
+ 
+ .nav {
   height: 165px;
-}
-
-.subNav {
+ }
+ 
+ #navSection{
+  width: 100%;
+ }
+ 
+ .subNav {
   height: 155px;
-}
-
-.about {
+ }
+ 
+ .about {
   height: 150px;
-}
-
-section {
+ }
+ 
+ #content{
+  width: 100%;
+ }
+ 
+ section {
   height: 430px;
-  width: 49.75%;
-}
-
-.right {
+  width: 49.5%;
+ }
+ 
+ .right {
   float: right;
-}
-
-.left {
+ }
+ 
+ .left {
   float: left;
-}
-
-#info {
+ }
+ 
+ #info {
   clear: left;
-}
-
-#pic {
+ }
+ 
+ #pic {
   clear: right;
-}
-
-footer {
+ }
+ 
+ footer {
   clear: both;
   width: 100%;
   height: 115px;
-}
-
-span {
+ }
+ 
+ span {
   position: absolute;
   left: 50%;
   top: 50%;
-
+ 
   transform: translate(-50%, -50%);
-}
+ }
