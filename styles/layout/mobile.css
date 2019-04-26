@@ -7,47 +7,58 @@ body * {
  header {
   width: 100%;
   height: 115px;
+  background-color: lavenderblush
  }
  
  article {
   width: 100%;
+  background-color: lightsalmon;
  }
  
  .nav {
   height: 165px;
+  background-color: navy;
  }
  
  #navSection{
   width: 100%;
+  background-color: mediumturquoise;
  }
  
  .subNav {
   height: 155px;
+  background-color: midnightblue;
  }
  
  .about {
   height: 150px;
+  background-color: silver
  }
  
  #content{
   width: 100%;
+  background-color: palevioletred;
  }
  
  section {
   height: 430px;
   width: 49.5%;
+  background-color: rosybrown;
  }
  
  .right {
   float: right;
+  background-color: blanchedalmond;
  }
  
  .left {
   float: left;
+  background-color: magenta;
  }
  
  #info {
   clear: left;
+  background-color: indianred;
  }
  
  #pic {
@@ -58,12 +69,13 @@ body * {
   clear: both;
   width: 100%;
   height: 115px;
+  background-color: greenyellow;
  }
  
  span {
   position: absolute;
   left: 50%;
   top: 50%;
- 
   transform: translate(-50%, -50%);
+  background-color: antiquewhite;
  }
